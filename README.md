@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abinash123hg/leetcodechallange/tree/master/0004-median-of-two-sorted-arrays) |
 | [0212-word-search-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0212-word-search-ii) |
+| [0216-combination-sum-iii](https://github.com/abinash123hg/leetcodechallange/tree/master/0216-combination-sum-iii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abinash123hg/leetcodechallange/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0212-word-search-ii) |
+| [0216-combination-sum-iii](https://github.com/abinash123hg/leetcodechallange/tree/master/0216-combination-sum-iii) |
 ## Trie
 |  |
 | ------- |

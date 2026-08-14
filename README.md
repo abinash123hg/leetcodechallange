@@ -40,6 +40,7 @@
 | [0008-string-to-integer-atoi](https://github.com/abinash123hg/leetcodechallange/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/abinash123hg/leetcodechallange/tree/master/0010-regular-expression-matching) |
 | [0212-word-search-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/abinash123hg/leetcodechallange/tree/master/0214-shortest-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abinash123hg/leetcodechallange/tree/master/0005-longest-palindromic-substring) |
+| [0214-shortest-palindrome](https://github.com/abinash123hg/leetcodechallange/tree/master/0214-shortest-palindrome) |
 ## Backtracking
 |  |
 | ------- |
@@ -77,4 +79,24 @@
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0212-word-search-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/abinash123hg/leetcodechallange/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/abinash123hg/leetcodechallange/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/abinash123hg/leetcodechallange/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/abinash123hg/leetcodechallange/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/abinash123hg/leetcodechallange/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->

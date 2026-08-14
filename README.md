@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abinash123hg/leetcodechallange/tree/master/0004-median-of-two-sorted-arrays) |
+| [0212-word-search-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0212-word-search-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abinash123hg/leetcodechallange/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@
 | [0006-zigzag-conversion](https://github.com/abinash123hg/leetcodechallange/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/abinash123hg/leetcodechallange/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/abinash123hg/leetcodechallange/tree/master/0010-regular-expression-matching) |
+| [0212-word-search-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0212-word-search-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -63,4 +65,16 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abinash123hg/leetcodechallange/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0212-word-search-ii) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0212-word-search-ii) |
+## Matrix
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->

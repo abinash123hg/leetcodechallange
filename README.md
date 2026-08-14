@@ -8,11 +8,13 @@
 | [0212-word-search-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/abinash123hg/leetcodechallange/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/abinash123hg/leetcodechallange/tree/master/0218-the-skyline-problem) |
+| [0219-contains-duplicate-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0219-contains-duplicate-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abinash123hg/leetcodechallange/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abinash123hg/leetcodechallange/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0219-contains-duplicate-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abinash123hg/leetcodechallange/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
@@ -48,6 +50,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abinash123hg/leetcodechallange/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |

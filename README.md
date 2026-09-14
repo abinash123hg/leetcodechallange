@@ -61,6 +61,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abinash123hg/leetcodechallange/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/abinash123hg/leetcodechallange/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abinash123hg/leetcodechallange/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abinash123hg/leetcodechallange/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0212-word-search-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/abinash123hg/leetcodechallange/tree/master/0214-shortest-palindrome) |
 ## Sliding Window
@@ -86,6 +87,7 @@
 | [0016-3sum-closest](https://github.com/abinash123hg/leetcodechallange/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/abinash123hg/leetcodechallange/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/abinash123hg/leetcodechallange/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abinash123hg/leetcodechallange/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abinash123hg/leetcodechallange/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/abinash123hg/leetcodechallange/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
@@ -128,10 +131,12 @@
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abinash123hg/leetcodechallange/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/abinash123hg/leetcodechallange/tree/master/0214-shortest-palindrome) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abinash123hg/leetcodechallange/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/abinash123hg/leetcodechallange/tree/master/0214-shortest-palindrome) |
 ## Binary Indexed Tree
 |  |
@@ -166,4 +171,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/abinash123hg/leetcodechallange/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abinash123hg/leetcodechallange/tree/master/0022-generate-parentheses) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abinash123hg/leetcodechallange/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

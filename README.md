@@ -13,6 +13,7 @@
 | [0027-remove-element](https://github.com/abinash123hg/leetcodechallange/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abinash123hg/leetcodechallange/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/abinash123hg/leetcodechallange/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/abinash123hg/leetcodechallange/tree/master/0036-valid-sudoku) |
 | [0212-word-search-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/abinash123hg/leetcodechallange/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/abinash123hg/leetcodechallange/tree/master/0218-the-skyline-problem) |
@@ -25,6 +26,7 @@
 | [0013-roman-to-integer](https://github.com/abinash123hg/leetcodechallange/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abinash123hg/leetcodechallange/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abinash123hg/leetcodechallange/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/abinash123hg/leetcodechallange/tree/master/0036-valid-sudoku) |
 | [0219-contains-duplicate-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0219-contains-duplicate-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abinash123hg/leetcodechallange/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
@@ -123,6 +125,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/abinash123hg/leetcodechallange/tree/master/0036-valid-sudoku) |
 | [0212-word-search-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0212-word-search-ii) |
 ## Rolling Hash
 |  |

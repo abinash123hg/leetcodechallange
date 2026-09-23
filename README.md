@@ -11,6 +11,7 @@
 | [0016-3sum-closest](https://github.com/abinash123hg/leetcodechallange/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/abinash123hg/leetcodechallange/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/abinash123hg/leetcodechallange/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abinash123hg/leetcodechallange/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0212-word-search-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/abinash123hg/leetcodechallange/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/abinash123hg/leetcodechallange/tree/master/0218-the-skyline-problem) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abinash123hg/leetcodechallange/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abinash123hg/leetcodechallange/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |

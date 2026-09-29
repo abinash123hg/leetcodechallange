@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/abinash123hg/leetcodechallange/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/abinash123hg/leetcodechallange/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/abinash123hg/leetcodechallange/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abinash123hg/leetcodechallange/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0212-word-search-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/abinash123hg/leetcodechallange/tree/master/0216-combination-sum-iii) |
@@ -29,6 +30,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abinash123hg/leetcodechallange/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abinash123hg/leetcodechallange/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/abinash123hg/leetcodechallange/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/abinash123hg/leetcodechallange/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0219-contains-duplicate-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abinash123hg/leetcodechallange/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting

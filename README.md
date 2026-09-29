@@ -14,6 +14,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abinash123hg/leetcodechallange/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/abinash123hg/leetcodechallange/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/abinash123hg/leetcodechallange/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0040-combination-sum-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abinash123hg/leetcodechallange/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0212-word-search-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/abinash123hg/leetcodechallange/tree/master/0216-combination-sum-iii) |
@@ -117,6 +118,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abinash123hg/leetcodechallange/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/abinash123hg/leetcodechallange/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0040-combination-sum-ii) |
 | [0212-word-search-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/abinash123hg/leetcodechallange/tree/master/0216-combination-sum-iii) |
 ## Trie

@@ -22,6 +22,7 @@
 | [0047-permutations-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/abinash123hg/leetcodechallange/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/abinash123hg/leetcodechallange/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/abinash123hg/leetcodechallange/tree/master/0051-n-queens) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abinash123hg/leetcodechallange/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0212-word-search-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/abinash123hg/leetcodechallange/tree/master/0216-combination-sum-iii) |
@@ -142,6 +143,7 @@
 | [0040-combination-sum-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/abinash123hg/leetcodechallange/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/abinash123hg/leetcodechallange/tree/master/0051-n-queens) |
 | [0212-word-search-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/abinash123hg/leetcodechallange/tree/master/0216-combination-sum-iii) |
 ## Trie
@@ -224,4 +226,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abinash123hg/leetcodechallange/tree/master/0042-trapping-rain-water) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/abinash123hg/leetcodechallange/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

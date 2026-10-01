@@ -58,6 +58,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/abinash123hg/leetcodechallange/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/abinash123hg/leetcodechallange/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/abinash123hg/leetcodechallange/tree/master/0044-wildcard-matching) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abinash123hg/leetcodechallange/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abinash123hg/leetcodechallange/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/abinash123hg/leetcodechallange/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/abinash123hg/leetcodechallange/tree/master/0044-wildcard-matching) |
 | [0212-word-search-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/abinash123hg/leetcodechallange/tree/master/0214-shortest-palindrome) |
 ## Sliding Window
@@ -112,6 +114,7 @@
 | [0022-generate-parentheses](https://github.com/abinash123hg/leetcodechallange/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abinash123hg/leetcodechallange/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abinash123hg/leetcodechallange/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/abinash123hg/leetcodechallange/tree/master/0044-wildcard-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abinash123hg/leetcodechallange/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Manacher
 |  |
@@ -183,6 +186,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abinash123hg/leetcodechallange/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/abinash123hg/leetcodechallange/tree/master/0044-wildcard-matching) |
 ## Stack
 |  |
 | ------- |

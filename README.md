@@ -19,6 +19,7 @@
 | [0042-trapping-rain-water](https://github.com/abinash123hg/leetcodechallange/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/abinash123hg/leetcodechallange/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0047-permutations-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abinash123hg/leetcodechallange/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0212-word-search-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/abinash123hg/leetcodechallange/tree/master/0216-combination-sum-iii) |
@@ -42,6 +43,7 @@
 | [0015-3sum](https://github.com/abinash123hg/leetcodechallange/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/abinash123hg/leetcodechallange/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/abinash123hg/leetcodechallange/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0047-permutations-ii) |
 | [0218-the-skyline-problem](https://github.com/abinash123hg/leetcodechallange/tree/master/0218-the-skyline-problem) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abinash123hg/leetcodechallange/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Linked List
@@ -131,6 +133,7 @@
 | [0022-generate-parentheses](https://github.com/abinash123hg/leetcodechallange/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/abinash123hg/leetcodechallange/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0047-permutations-ii) |
 | [0212-word-search-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/abinash123hg/leetcodechallange/tree/master/0216-combination-sum-iii) |
 ## Trie

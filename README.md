@@ -92,6 +92,7 @@
 | [0032-longest-valid-parentheses](https://github.com/abinash123hg/leetcodechallange/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/abinash123hg/leetcodechallange/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/abinash123hg/leetcodechallange/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/abinash123hg/leetcodechallange/tree/master/0058-length-of-last-word) |
 | [0212-word-search-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/abinash123hg/leetcodechallange/tree/master/0214-shortest-palindrome) |
 ## Sliding Window

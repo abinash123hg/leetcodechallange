@@ -43,6 +43,7 @@
 | [0041-first-missing-positive](https://github.com/abinash123hg/leetcodechallange/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/abinash123hg/leetcodechallange/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/abinash123hg/leetcodechallange/tree/master/0387-first-unique-character-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abinash123hg/leetcodechallange/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
@@ -95,6 +96,7 @@
 | [0058-length-of-last-word](https://github.com/abinash123hg/leetcodechallange/tree/master/0058-length-of-last-word) |
 | [0212-word-search-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/abinash123hg/leetcodechallange/tree/master/0214-shortest-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/abinash123hg/leetcodechallange/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -240,4 +242,12 @@
 | ------- |
 | [0051-n-queens](https://github.com/abinash123hg/leetcodechallange/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/abinash123hg/leetcodechallange/tree/master/0052-n-queens-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/abinash123hg/leetcodechallange/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/abinash123hg/leetcodechallange/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
